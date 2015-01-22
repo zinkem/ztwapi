@@ -1,0 +1,14 @@
+{
+  "name": "ztwapi",
+  "version": "0.0.1",
+  "description": "A node.js module for using the twitter api",
+  "author": "Matthew Zinke <zinkem@gmail.com>",
+  "main": "lib/ztwapi.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zinkem/ztwapi"
+  },
+  "dependencies": {
+    "oauth": "*"
+  }
+}
